@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "Kimberly Orantes"
 date: "Fall semester"
 output: html_document
 ---
@@ -15,7 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+A BOAT beneath a sunny sky,  
+Lingering onward dreamily  
+In an evening of July –  
+Children three that nestle near,  
+Eager eye and willing ear,  
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 Two roads diverged in a yellow wood,  
@@ -42,3 +47,14 @@ After the day was done —
   
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+The rose is a rose,  
+And was always a rose.  
+But the theory now goes  
+That the apple’s a rose,  
+And the pear is, and so’s  
+The plum, I suppose.  
+The dear only knows  
+What will next prove a rose.  
+You, of course, are a rose –  
+But were always a rose.  
+  
